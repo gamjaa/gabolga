@@ -16,3 +16,9 @@ https://gabolga.gamjaa.com/
  2. 트윗 링크 복사하기를 누른다.
  3. 가볼가 사이트에 붙여넣고 '장소 찾기' 버튼을 누른다.
  4. 이동된 페이지에서 '가볼가 하기' 버튼을 누른다.
+
+## 트위터 가볼가 봇 코드 저장소
+https://github.com/gamjaa/gabolga-bot
+
+## 사용된 라이브러리
+https://github.com/abraham/twitteroauth
